@@ -25,13 +25,13 @@ More topics will be added step by step.
 
 ## 📁 Folder Structure
 
-Each folder represents one stage of learning.
+```
 cpp-dsa-foundations/
 │
 ├── day-01-basics/
 ├── day-02-conditions/
 ├── day-03-loops/
-
+```
 
 Each folder contains multiple small programs focused on concept clarity and logic building.
 
