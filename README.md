@@ -1,39 +1,49 @@
 # C++ & DSA Foundations
 
-This repository contains my daily practice of C++ and Data Structures & Algorithms.
+This repository contains my daily practice and learning progress in C++ and Data Structures & Algorithms.
 
-## Purpose
-- Build strong fundamentals
-- Improve logic building
+The goal of this repository is to:
+- Build strong programming fundamentals
+- Improve logical thinking
 - Practice consistently
-- Track daily progress
+- Prepare for Software Development roles
 
-## Structure
+---
 
-Each folder represents one day of learning.
+## 📚 Topics Covered So Far
 
-Example:
+- Input / Output
+- Variables & Data Types
+- Operators
+- If-Else & If-Else Ladder
+- Loops (for, while)
+- Basic Number Problems
 
+More topics will be added step by step.
+
+---
+
+## 📁 Folder Structure
+
+Each folder represents one stage of learning.
 cpp-dsa-foundations/
 │
 ├── day-01-basics/
-├── day-02-variables/
-├── day-03-if-else/
-├── day-04-if-else-ladder/
-├── day-05-loops-for/
-├── day-06-loops-while/
-├── day-07-patterns/
-├── day-08-functions/
+├── day-02-conditions/
+├── day-03-loops/
 
-Each day includes:
-- Concept practice
-- Multiple small programs
-- Clean and simple code
 
-## Tools Used
-- C++
-- g++ (C++17)
+Each folder contains multiple small programs focused on concept clarity and logic building.
+
+---
+
+## 🛠 Tools Used
+
+- C++ (C++17)
+- g++
 - VS Code
 - Git & GitHub
 
-This repository will grow step by step with daily consistency.
+---
+
+This repository will grow with consistency and daily practice.
